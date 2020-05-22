@@ -1,0 +1,3 @@
+Navigate to Suites folder and select the Suite.xml file 
+And run as TestNgSuite 
+And verify the reports are placed in reports folder.

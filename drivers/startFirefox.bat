@@ -1,0 +1,1 @@
+java -jar selenium-server-standalone-3.141.59.jar -role wd -port 5556 -hub http://192.168.5.131:4444/grid/register -browser browserName=firefox,platform=WINDOWS,maxInstances=1 -maxSession 1
